@@ -2,10 +2,11 @@ title:            Caporaso Lab
 description:     Coparso Lab Site 
 logo:             site-logo.png
 #Comment out url when working locally to resolve base urls correctly
-url:              "caporaso.us"
+#url:              "caporaso.us"
 
 
 people: 
+  - "Evan Bolyen"
   - Demo-User
   - User2
   - User3
